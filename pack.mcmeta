@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": [
+      {"text":"FSOCIETY V25 - ","color":"dark_gray"},
+      {"text":"Ultimate Hacking Simulator","color":"green","bold":true},
+      {"text":"\nWatch Dogs 2 + Mr. Robot","color":"gold"}
+    ]
+  }
+}
