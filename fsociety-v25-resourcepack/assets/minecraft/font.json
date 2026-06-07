@@ -1,0 +1,36 @@
+{
+  "fonts": {
+    "minecraft:default": [
+      {
+        "name": "minecraft:default",
+        "chars": [
+          "minecraft:font/glyph_sizes.bin"
+        ]
+      }
+    ],
+    "fsociety:monospace": [
+      {
+        "name": "fsociety:monospace",
+        "chars": [
+          "fsociety:font/monospace.png"
+        ]
+      }
+    ],
+    "fsociety:hacker": [
+      {
+        "name": "fsociety:hacker",
+        "chars": [
+          "fsociety:font/hacker.png"
+        ]
+      }
+    ],
+    "fsociety:terminal": [
+      {
+        "name": "fsociety:terminal",
+        "chars": [
+          "fsociety:font/terminal.png"
+        ]
+      }
+    ]
+  }
+}

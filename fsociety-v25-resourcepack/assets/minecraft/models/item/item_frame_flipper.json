@@ -1,0 +1,24 @@
+{
+  "name": "Flipper Zero - Custom Item",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "fsociety:item/flipper_zero"
+  },
+  "display": {
+    "gui": {
+      "rotation": [0, 45, 0],
+      "translation": [0, 0, 0],
+      "scale": [1.15, 1.15, 1.15]
+    },
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 45],
+      "translation": [0, 1, 0],
+      "scale": [0.7, 0.7, 0.7]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 45],
+      "translation": [0.5, 2, 0.5],
+      "scale": [0.5, 0.5, 0.5]
+    }
+  }
+}

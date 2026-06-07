@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": [
+      {"text":"FSOCIETY V25 - ","color":"dark_gray"},
+      {"text":"Hacker Cyberpunk Theme","color":"green","bold":true},
+      {"text":"\nCustom UI, Fonts & Animations","color":"gold"}
+    ]
+  }
+}

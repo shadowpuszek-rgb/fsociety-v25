@@ -1,0 +1,19 @@
+{
+  "name": "Drone - Custom Entity",
+  "parent": "entity/armor_stand",
+  "textures": {
+    "layer0": "fsociety:entity/drone"
+  },
+  "display": {
+    "gui": {
+      "rotation": [0, 45, 0],
+      "translation": [0, 0, 0],
+      "scale": [1.25, 1.25, 1.25]
+    },
+    "head": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 0, 0],
+      "scale": [1.5, 1.5, 1.5]
+    }
+  }
+}

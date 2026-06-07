@@ -1,0 +1,24 @@
+{
+  "name": "Bad USB - Custom Item",
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "fsociety:item/bad_usb"
+  },
+  "display": {
+    "gui": {
+      "rotation": [0, 0, 0],
+      "translation": [0, 0, 0],
+      "scale": [1.0, 1.0, 1.0]
+    },
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 0],
+      "translation": [0, 0.5, 0],
+      "scale": [0.5, 0.5, 0.5]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 0],
+      "translation": [0.2, 1.5, 0.2],
+      "scale": [0.4, 0.4, 0.4]
+    }
+  }
+}

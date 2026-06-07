@@ -1,0 +1,52 @@
+{
+  "sounds": {
+    "ui.hack_success": {
+      "sounds": [{"name": "fsociety:ui/hack_success", "stream": false}],
+      "subtitle": "subtitles.ui.hack_success"
+    },
+    "ui.hack_failed": {
+      "sounds": [{"name": "fsociety:ui/hack_failed", "stream": false}],
+      "subtitle": "subtitles.ui.hack_failed"
+    },
+    "ui.police_raid": {
+      "sounds": [{"name": "fsociety:ui/police_raid", "stream": false}],
+      "subtitle": "subtitles.ui.police_raid"
+    },
+    "ui.server_compromised": {
+      "sounds": [{"name": "fsociety:ui/server_compromised", "stream": false}],
+      "subtitle": "subtitles.ui.server_compromised"
+    },
+    "ui.trace_detected": {
+      "sounds": [{"name": "fsociety:ui/trace_detected", "stream": false}],
+      "subtitle": "subtitles.ui.trace_detected"
+    },
+    "ui.xp_gain": {
+      "sounds": [{"name": "fsociety:ui/xp_gain", "stream": false}],
+      "subtitle": "subtitles.ui.xp_gain"
+    },
+    "ui.level_up": {
+      "sounds": [{"name": "fsociety:ui/level_up", "stream": false}],
+      "subtitle": "subtitles.ui.level_up"
+    },
+    "ambient.matrix": {
+      "sounds": [{"name": "fsociety:ambient/matrix_ambient", "stream": true}],
+      "subtitle": "subtitles.ambient.matrix"
+    },
+    "music.fsociety_theme": {
+      "sounds": [{"name": "fsociety:music/fsociety_theme", "stream": true}],
+      "subtitle": "subtitles.music.fsociety"
+    },
+    "music.dedsec_theme": {
+      "sounds": [{"name": "fsociety:music/dedsec_theme", "stream": true}],
+      "subtitle": "subtitles.music.dedsec"
+    },
+    "music.dark_army_theme": {
+      "sounds": [{"name": "fsociety:music/dark_army_theme", "stream": true}],
+      "subtitle": "subtitles.music.dark_army"
+    },
+    "music.whitehat_theme": {
+      "sounds": [{"name": "fsociety:music/whitehat_theme", "stream": true}],
+      "subtitle": "subtitles.music.whitehat"
+    }
+  }
+}
