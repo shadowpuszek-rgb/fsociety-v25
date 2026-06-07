@@ -1,0 +1,30 @@
+{
+  "itemname.fsociety.laptop": "Hacking Laptop",
+  "itemname.fsociety.flipper_zero": "Flipper Zero",
+  "itemname.fsociety.bad_usb": "Bad USB",
+  "itemname.fsociety.usb_drive": "USB Drive",
+  "itemname.fsociety.router": "Wireless Router",
+  "itemname.fsociety.drone": "Surveillance Drone",
+  
+  "faction.dedsec": "DedSec",
+  "faction.fsociety": "fsociety",
+  "faction.dark_army": "Dark Army",
+  "faction.whitehat": "WhiteHat Alliance",
+  
+  "os.linux": "Linux Debian 12",
+  "os.windows": "Windows 11 Pro",
+  "os.macos": "macOS Sonoma",
+  "os.kali": "Kali Linux 2024",
+  "os.custom": "Custom OS",
+  
+  "skill.hacking": "Hacking",
+  "skill.coding": "Coding",
+  "skill.social_eng": "Social Engineering",
+  "skill.defense": "Defense",
+  "skill.stealth": "Stealth",
+  
+  "message.hack_success": "System compromised!",
+  "message.hack_failed": "Hack failed - Firewall detected!",
+  "message.trace_detected": "Incoming trace detected!",
+  "message.police_raid": "FBI raid in progress!"
+}

@@ -1,0 +1,22 @@
+{
+  "sounds": {
+    "fsociety.hack_success": {
+      "sounds": [{"name": "fsociety:ui/hack_success", "volume": 1.0}]
+    },
+    "fsociety.hack_failed": {
+      "sounds": [{"name": "fsociety:ui/hack_failed", "volume": 1.0}]
+    },
+    "fsociety.police_raid": {
+      "sounds": [{"name": "fsociety:ui/police_raid", "volume": 0.8}]
+    },
+    "fsociety.trace_detected": {
+      "sounds": [{"name": "fsociety:ui/trace_detected", "volume": 0.9}]
+    },
+    "fsociety.xp_gain": {
+      "sounds": [{"name": "fsociety:ui/xp_gain", "volume": 0.7}]
+    },
+    "fsociety.level_up": {
+      "sounds": [{"name": "fsociety:ui/level_up", "volume": 1.0}]
+    }
+  }
+}
